@@ -47,6 +47,6 @@ Você pode abrir o arquivo index.html no seu navegador ou hospedar o projeto com
 
 Caso queira entrar em contato:
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/emanuelle_hostin)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/emanuelle-cristina-hostin-764728364/)
 - 🐙 [GitHub](https://github.com/manu-hostin)
 
